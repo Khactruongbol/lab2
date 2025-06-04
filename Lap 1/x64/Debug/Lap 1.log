@@ -1,0 +1,8 @@
+﻿  rect2Test.cpp
+  rect2.cpp
+C:\Users\User\source\repos\Lap 1\rect2.cpp(24,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Lap 1\rect2.cpp(25,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Lap 1\rect2.cpp(32,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Lap 1\rect2.cpp(33,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Lap 1.vcxproj -> C:\Users\User\source\repos\Lap 1\x64\Debug\Lap 1.exe
